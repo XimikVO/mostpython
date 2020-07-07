@@ -1,0 +1,68 @@
+body{
+	background-image: url(../img/фон.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+.container{
+	margin-top: 20px !important;
+	margin-bottom: 20px !important;
+}
+.fon-polosa0{
+	background: #fff;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 12px;
+}
+.fon-polosa1{
+	background: #fff;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 12px;
+	margin-top: -20px;
+}
+.polosa0{
+	position: relative;
+	height: 1px;
+	left: 1%;
+	width: 98%;
+	background: #636363;
+}
+.copy{
+	background: #fff;/*#ffb900*/
+	padding-bottom: 20px;
+	padding-top: 12px;
+	font-size: 13pt;
+}
+.copi{
+	margin-left: 2%;
+	width: 96%;
+	background: #dfdfdf;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
+.kak-sdelat{
+	background: #fff;
+	text-align: center;
+	color: #000;
+	font-size: 24pt;
+	font-family: 'Open Sans';
+	padding-top: 15px;
+}
+.card{
+	border-radius: 0 !important;
+}
+.card-img-top{
+	border-radius: 0 !important;
+}
+.pitonmost{
+	background: #fff;
+}
+.gotov{
+	background: #fff;
+	text-align: center;
+	color: #000;
+	font-size: 18pt;
+	font-family: 'Open Sans';
+
+}
